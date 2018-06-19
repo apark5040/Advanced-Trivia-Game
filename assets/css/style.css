@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Shrikhand', cursive;
+
+}
+
+#app {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.hide {
+    display: none;
+}
+
+.container, p {
+    text-align: center;
+}
+
+#questions {
+    padding: 15px;
+}
+
+input {
+    margin: 15px;
+}
+
+form {
+    margin-left: 275px;
+}
+
+.questionAnswer {
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+#last {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+div{
+    background-color: grey;
+}

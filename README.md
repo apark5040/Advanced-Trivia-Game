@@ -1,1 +1,1 @@
-# Advanced-Trivia-Game
+# TriviaGame
